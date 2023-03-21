@@ -79,11 +79,11 @@
 }
 
 .container_botao:checked ~ .container_rotulo > .cabeçalho_menu-hamburger{
-    background-image: url("../img/Menu\ Aberto.svg");
+    background-image: url("../img/Menu Aberto.svg");
 }
 
 .container_botao:checked ~ .container_rotulo {
-background: var(--azul-degrade);
+    background: var(--azul-degrade);
 }
 
 
