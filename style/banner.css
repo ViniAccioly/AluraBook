@@ -39,6 +39,7 @@
     .banner_pesquisa::placeholder{
         text-align: right;
         font-size: 14px;
+        background-position: 0;
         
     }
 }
