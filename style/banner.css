@@ -37,7 +37,7 @@
 
 @media screen and (max-width: 380px){
     .banner_pesquisa::placeholder{
-        text-align: right;
+        text-align: left;
         font-size: 13px;
         background-position: 0;
         
